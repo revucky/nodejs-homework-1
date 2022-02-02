@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revut/nodejs-homework-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revut/nodejs-homework-1/issues"
+  },
+  "homepage": "https://github.com/revut/nodejs-homework-1#readme",
+  "dependencies": {
+    "calc-js": "^2.0.7",
+    "commander": "^9.0.0",
+    "nodemon": "^2.0.15",
+    "uid": "^2.0.0",
+    "yargs": "^17.3.1"
+  }
+}
